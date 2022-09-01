@@ -5,6 +5,6 @@ Welcome to "Car Price Prediction EDA Project". This is the capstone project of D
 
 The project consists of 3 parts:
 
-The First part is related to 'data cleaning'. It deals with Incorrect Headers (Column names), Incorrect Format, Anomalies, Dropping useless columns.
-The Second part is related to 'filling data'. It deals with Missing Values. Categorical to numeric transformation is done.
-The Third part is related to 'handling outliers of data' via Visualisation libraries. Some insights are extracted.
+* The First part is related to 'data cleaning'. It deals with Incorrect Headers (Column names), Incorrect Format, Anomalies, Dropping useless columns.
+* The Second part is related to 'filling data'. It deals with Missing Values. Categorical to numeric transformation is done.
+* The Third part is related to 'handling outliers of data' via Visualisation libraries. Some insights are extracted.
